@@ -1,0 +1,7 @@
+Part/Designator,Manufacture Part Number/Quantity
+"C1,C2",CC0603KRX7R9BB104,2
+"R1,R2",RC0603FR-0710KL,2
+S1,3*6*2.5_SMD_SWITCH,1
+U2,PTR5518,1
+U2,NodeMCUv2,1
+L1,WS2812B,1
